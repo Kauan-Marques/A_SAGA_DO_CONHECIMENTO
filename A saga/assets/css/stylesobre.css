@@ -1,0 +1,204 @@
+/* created by kauan Marques*/
+/* date : 16/12/2024*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800;900&display=swap');
+/*pagina html*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header{
+    float: right;
+    background: url(../img/teste1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+width: 45%;
+height: 90px;
+} */
+a{
+     color: antiquewhite;
+font-size: 25px;
+    }
+.branquinho{
+margin-top: 1.5%;
+font-size: 25px;
+    margin-left: 1%;
+/* float: right; */
+    color:antiquewhite;
+    margin-right: 10%;
+}
+body{
+    background-color: #333;
+    background-image: url(../img/background_menu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.todo{
+    align-items: center;
+    justify-content: center;
+position: relative;
+border-radius: 10px;
+border-color: aqua;
+}
+.rostos{
+    width: 300px;
+    height: 300px;
+    border: 30px;
+    border-radius: 50%;
+border: 3px solid black;
+
+}
+div.box{
+    width: 20%;
+    display: inline-block;
+    margin-left: 4.7%;
+}
+
+div.boz{
+    width: 15%;
+    display: inline-block;
+    margin-left: 11%;
+
+}
+.fot{
+    margin-left: 7%;
+}
+.nome1{
+    margin-left: 10%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome2{
+    margin-left: 17%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome3{
+    margin-left: 10%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome4{
+    margin-left: 17%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome5{
+    margin-left: 17.5%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome6{
+    margin-left: 24%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.nome7{
+    margin-left: 29%;
+    font-size: 50px;
+    color: antiquewhite;
+}
+/* @media only screen and (min-width: 0px) and (max-width: 99px) {
+    a{
+        color: antiquewhite;
+   font-size: 1px;
+       }
+   .branquinho{
+    font-size: 1px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+@media only screen and (min-width: 100px) and (max-width: 299px) {
+    a{
+        color: antiquewhite;
+   font-size: 3px;
+       }
+   .branquinho{
+    font-size: 3px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+@media only screen and (min-width: 300px) and (max-width: 499px) {
+    a{
+        color: antiquewhite;
+   font-size: 4.5px;
+       }
+   .branquinho{
+    font-size: 4.5px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+
+
+@media only screen and (min-width: 500px) and (max-width: 699px) {
+    a{
+        color: antiquewhite;
+   font-size: 5.5px;
+       }
+   .branquinho{
+    font-size: 5.5px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 899px) {
+    a{
+        color: antiquewhite;
+   font-size: 6.5px;
+       }
+   .branquinho{
+    font-size: 6.5px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1099px) {
+    a{
+        color: antiquewhite;
+   font-size: 7.5px;
+       }
+   .branquinho{
+    font-size: 7.5px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+@media only screen and (min-width: 1100px) and (max-width: 1299px) {
+    a{
+        color: antiquewhite;
+   font-size: 12.5px;
+       }
+   .branquinho{
+    font-size: 12.5px;
+       margin-left: 1%;
+       color:antiquewhite;
+
+   }
+}
+@media only screen and (min-width: 1300px) and (max-width: 1499px) {
+    a{
+        color: antiquewhite;
+   font-size: 15.5px;
+       }
+   .branquinho{
+    font-size: 15.5px;
+       margin-left: 1%;
+
+       color:antiquewhite;
+
+   }
+} */
